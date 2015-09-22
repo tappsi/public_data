@@ -1,5 +1,5 @@
 {
-  "date_sampling": "2015-09-22 15:45",
+  "date_sampling": "2015-09-22 16:00",
   "upz_cab_availability": [
     [
       "1",
@@ -7,151 +7,159 @@
     ],
     [
       "10",
-      66.67
-    ],
-    [
-      "100",
-      61.9
-    ],
-    [
-      "101",
-      73.68
-    ],
-    [
-      "102",
-      45.45
-    ],
-    [
-      "103",
-      0
-    ],
-    [
-      "104",
-      62.5
-    ],
-    [
-      "105",
-      100
-    ],
-    [
-      "106",
-      76.92
-    ],
-    [
-      "107",
-      81.82
-    ],
-    [
-      "108",
-      64
-    ],
-    [
-      "109",
-      73.33
-    ],
-    [
-      "11",
-      100
-    ],
-    [
-      "110",
-      68.42
-    ],
-    [
-      "111",
-      62.5
-    ],
-    [
-      "112",
-      66.67
-    ],
-    [
-      "113",
-      44.44
-    ],
-    [
-      "114",
-      80
-    ],
-    [
-      "115",
-      100
-    ],
-    [
-      "116",
-      77.78
-    ],
-    [
-      "12",
-      78.26
-    ],
-    [
-      "13",
-      73.75
-    ],
-    [
-      "14",
-      69.57
-    ],
-    [
-      "15",
-      85.71
-    ],
-    [
-      "16",
-      68.27
-    ],
-    [
-      "17",
       72.73
     ],
     [
-      "18",
-      94.74
+      "100",
+      66.67
     ],
     [
-      "19",
-      71.88
+      "101",
+      74.07
     ],
     [
-      "2",
+      "102",
+      48.15
+    ],
+    [
+      "103",
+      33.33
+    ],
+    [
+      "104",
+      56.25
+    ],
+    [
+      "105",
       50
     ],
     [
-      "20",
-      74.47
+      "106",
+      78.57
     ],
     [
-      "21",
+      "107",
       71.43
     ],
     [
-      "22",
+      "108",
+      60
+    ],
+    [
+      "109",
+      86.67
+    ],
+    [
+      "11",
+      87.5
+    ],
+    [
+      "110",
+      64.29
+    ],
+    [
+      "111",
       54.55
     ],
     [
+      "112",
+      55
+    ],
+    [
+      "113",
+      77.78
+    ],
+    [
+      "114",
+      73.33
+    ],
+    [
+      "115",
+      62.5
+    ],
+    [
+      "116",
+      100
+    ],
+    [
+      "117",
+      0
+    ],
+    [
+      "12",
+      86.36
+    ],
+    [
+      "13",
+      81.43
+    ],
+    [
+      "14",
+      77.05
+    ],
+    [
+      "15",
+      73.91
+    ],
+    [
+      "16",
+      70.41
+    ],
+    [
+      "17",
+      55.56
+    ],
+    [
+      "18",
+      60
+    ],
+    [
+      "19",
+      69.05
+    ],
+    [
+      "2",
+      33.33
+    ],
+    [
+      "20",
+      80.85
+    ],
+    [
+      "21",
+      70.37
+    ],
+    [
+      "22",
+      46.15
+    ],
+    [
       "23",
-      57.14
+      58.82
     ],
     [
       "24",
-      73.17
+      70.59
     ],
     [
       "25",
-      76.92
+      77.78
     ],
     [
       "26",
-      81.25
+      61.11
     ],
     [
       "27",
-      57.14
+      72.73
     ],
     [
       "28",
-      40
+      75
+    ],
+    [
+      "29",
+      100
     ],
     [
       "3",
@@ -159,15 +167,19 @@
     ],
     [
       "30",
-      58.33
+      71.43
     ],
     [
       "31",
-      90
+      72.73
+    ],
+    [
+      "32",
+      100
     ],
     [
       "33",
-      66.67
+      33.33
     ],
     [
       "34",
@@ -175,15 +187,11 @@
     ],
     [
       "35",
-      80
-    ],
-    [
-      "36",
-      100
+      55.56
     ],
     [
       "37",
-      66.67
+      100
     ],
     [
       "38",
@@ -191,43 +199,47 @@
     ],
     [
       "39",
-      100
+      60
     ],
     [
       "40",
-      0
+      66.67
     ],
     [
       "41",
-      75
+      85.71
     ],
     [
       "42",
-      50
+      66.67
     ],
     [
       "43",
-      33.33
+      83.33
     ],
     [
       "44",
-      72.73
+      75
     ],
     [
       "45",
-      53.85
-    ],
-    [
-      "46",
       62.5
     ],
     [
+      "46",
+      40
+    ],
+    [
+      "47",
+      100
+    ],
+    [
       "48",
-      0
+      50
     ],
     [
       "50",
-      33.33
+      0
     ],
     [
       "53",
@@ -238,24 +250,28 @@
       0
     ],
     [
-      "58",
-      0
-    ],
-    [
       "62",
       100
     ],
     [
-      "71",
-      66.67
+      "65",
+      100
     ],
     [
-      "72",
+      "69",
+      100
+    ],
+    [
+      "71",
       50
     ],
     [
+      "72",
+      66.67
+    ],
+    [
       "73",
-      53.33
+      54.55
     ],
     [
       "74",
@@ -263,15 +279,15 @@
     ],
     [
       "75",
-      87.5
+      75
     ],
     [
       "76",
-      100
+      50
     ],
     [
       "77",
-      57.14
+      66.67
     ],
     [
       "78",
@@ -279,10 +295,6 @@
     ],
     [
       "79",
-      0
-    ],
-    [
-      "80",
       50
     ],
     [
@@ -290,36 +302,48 @@
       0
     ],
     [
+      "83",
+      100
+    ],
+    [
       "85",
       50
     ],
     [
       "86",
-      50
+      0
     ],
     [
       "88",
-      70.18
+      64.62
+    ],
+    [
+      "9",
+      85.71
     ],
     [
       "90",
-      77.78
+      72.97
     ],
     [
       "91",
-      41.38
+      20
     ],
     [
       "92",
-      100
+      42.86
     ],
     [
       "93",
-      29.17
+      12
     ],
     [
       "94",
-      17.65
+      13.51
+    ],
+    [
+      "95",
+      0
     ],
     [
       "96",
@@ -327,20 +351,20 @@
     ],
     [
       "97",
-      59.64
+      62
     ],
     [
       "98",
-      78
+      67.39
     ],
     [
       "99",
-      78.26
+      80.77
     ]
   ],
-  "cab_global_availability": 7827,
-  "passenger_number": [673, 407],
-  "average_pickup": [159.6556, 216.4664],
+  "cab_global_availability": 7716,
+  "passenger_number": [803, 462],
+  "average_pickup": [144.649, 194.918],
   "segment_average_speed": [
     {
       "name": "Auto. Norte entre las calles 85 y 127",
@@ -366,8 +390,8 @@
         [-74.0585, 4.6757],
         [-74.0592, 4.6715]
       ],
-      "current_quantity": 35.31,
-      "previous_quantity": 26.106
+      "current_quantity": 34.3396,
+      "previous_quantity": 31.538
     },
     {
       "name": "Auto. Norte entre las calles 85 y 127",
@@ -393,8 +417,8 @@
         [-74.0585, 4.6757],
         [-74.0592, 4.6715]
       ],
-      "current_quantity": 30.7707,
-      "previous_quantity": 29.6738
+      "current_quantity": 31.1669,
+      "previous_quantity": 27.7076
     },
     {
       "name": "Av. 68 entre las calles 26 y 80",
@@ -428,8 +452,8 @@
         [-74.1026, 4.6541],
         [-74.1051, 4.6506]
       ],
-      "current_quantity": 28.9245,
-      "previous_quantity": 23.4246
+      "current_quantity": 31.4885,
+      "previous_quantity": 18.1553
     },
     {
       "name": "Av. 68 entre las calles 26 y 80",
@@ -463,8 +487,8 @@
         [-74.1026, 4.6541],
         [-74.1051, 4.6506]
       ],
-      "current_quantity": 31.454,
-      "previous_quantity": 21.6434
+      "current_quantity": 33.0806,
+      "previous_quantity": 22.332
     },
     {
       "name": "Av. 9 entre las calles 127 y 147",
@@ -483,8 +507,8 @@
         [-74.0324, 4.7067],
         [-74.0325, 4.7027]
       ],
-      "current_quantity": 34.6741,
-      "previous_quantity": 16.8487
+      "current_quantity": 20.6996,
+      "previous_quantity": 21.5377
     },
     {
       "name": "Av. 9 entre las calles 127 y 147",
@@ -503,8 +527,8 @@
         [-74.0324, 4.7067],
         [-74.0325, 4.7027]
       ],
-      "current_quantity": 0.2042,
-      "previous_quantity": 16.6536
+      "current_quantity": 0.0044,
+      "previous_quantity": 15.5331
     },
     {
       "name": "Av. Boyacá entre las calles 26 y 80",
@@ -550,8 +574,8 @@
         [-74.1123, 4.6649],
         [-74.1127, 4.6642]
       ],
-      "current_quantity": 22.619,
-      "previous_quantity": 29.2521
+      "current_quantity": 28.6467,
+      "previous_quantity": 24.3137
     },
     {
       "name": "Av. Boyacá entre las calles 26 y 80",
@@ -597,8 +621,8 @@
         [-74.1123, 4.6649],
         [-74.1127, 4.6642]
       ],
-      "current_quantity": 30.4418,
-      "previous_quantity": 35.0335
+      "current_quantity": 26.5164,
+      "previous_quantity": 20.1383
     },
     {
       "name": "Av. Calle 16 entre las carreras 13 y 96",
@@ -639,8 +663,8 @@
         [-74.1393, 4.6622],
         [-74.1384, 4.6629]
       ],
-      "current_quantity": 15.2774,
-      "previous_quantity": 12.7233
+      "current_quantity": 14.5063,
+      "previous_quantity": 9.0183
     },
     {
       "name": "Av. Calle 16 entre las carreras 13 y 96",
@@ -681,8 +705,8 @@
         [-74.1393, 4.6622],
         [-74.1384, 4.6629]
       ],
-      "current_quantity": 16.0952,
-      "previous_quantity": 18.7347
+      "current_quantity": 18.4386,
+      "previous_quantity": 10.468
     },
     {
       "name": "Av. Calle 80 entre la Av. 68 y la Av. Ciudad de Cali",
@@ -719,8 +743,8 @@
         [-74.102, 4.7032],
         [-74.1017, 4.7038]
       ],
-      "current_quantity": 25.071,
-      "previous_quantity": 21.4897
+      "current_quantity": 15.071,
+      "previous_quantity": 15.7681
     },
     {
       "name": "Av. Calle 80 entre la Av. 68 y la Av. Ciudad de Cali",
@@ -757,8 +781,8 @@
         [-74.102, 4.7032],
         [-74.1017, 4.7038]
       ],
-      "current_quantity": 26.4485,
-      "previous_quantity": 16.0698
+      "current_quantity": 20.5781,
+      "previous_quantity": 15.2053
     },
     {
       "name": "Av. Caracas entre las calles 63 y 72",
@@ -779,8 +803,8 @@
         [-74.0638, 4.6523],
         [-74.0644, 4.6493]
       ],
-      "current_quantity": 15.4627,
-      "previous_quantity": 7.9676
+      "current_quantity": 10.7441,
+      "previous_quantity": 6.3498
     },
     {
       "name": "Av. Caracas entre las calles 63 y 72",
@@ -801,8 +825,8 @@
         [-74.0638, 4.6523],
         [-74.0644, 4.6493]
       ],
-      "current_quantity": 15.7597,
-      "previous_quantity": 14.1893
+      "current_quantity": 12.9181,
+      "previous_quantity": 11.9777
     },
     {
       "name": "Av. Cararcas entre las calles 13 y 63",
@@ -843,8 +867,8 @@
         [-74.0793, 4.6038],
         [-74.0799, 4.603]
       ],
-      "current_quantity": 15.5163,
-      "previous_quantity": 13.9869
+      "current_quantity": 15.7974,
+      "previous_quantity": 12.3902
     },
     {
       "name": "Av. Cararcas entre las calles 13 y 63",
@@ -885,8 +909,8 @@
         [-74.0793, 4.6038],
         [-74.0799, 4.603]
       ],
-      "current_quantity": 15.6221,
-      "previous_quantity": 12.8709
+      "current_quantity": 14.2355,
+      "previous_quantity": 10.1779
     },
     {
       "name": "Av. Circunvalar entre las calles 39 y 94",
@@ -994,8 +1018,8 @@
         [-74.0621, 4.6285],
         [-74.0616, 4.6275]
       ],
-      "current_quantity": 35.2089,
-      "previous_quantity": 22.3174
+      "current_quantity": 26.8204,
+      "previous_quantity": 18.7849
     },
     {
       "name": "Av. Circunvalar entre las calles 39 y 94",
@@ -1103,8 +1127,8 @@
         [-74.0621, 4.6285],
         [-74.0616, 4.6275]
       ],
-      "current_quantity": 28.7832,
-      "previous_quantity": 21.7284
+      "current_quantity": 29.6101,
+      "previous_quantity": 18.2399
     },
     {
       "name": "Av. Esperanza entre las carreras 50 y 94",
@@ -1138,8 +1162,8 @@
         [-74.1222, 4.6684],
         [-74.1256, 4.6722]
       ],
-      "current_quantity": 19.1857,
-      "previous_quantity": 6.5276
+      "current_quantity": 16.8885,
+      "previous_quantity": 17.7094
     },
     {
       "name": "Av. Esperanza entre las carreras 50 y 94",
@@ -1173,8 +1197,8 @@
         [-74.1222, 4.6684],
         [-74.1256, 4.6722]
       ],
-      "current_quantity": 16.4768,
-      "previous_quantity": 10.1939
+      "current_quantity": 23.0129,
+      "previous_quantity": 17.9989
     },
     {
       "name": "Av. NQS entre las calles 26 y 94",
@@ -1229,8 +1253,8 @@
         [-74.0804, 4.6275],
         [-74.0812, 4.6265]
       ],
-      "current_quantity": 42.1921,
-      "previous_quantity": 24.9652
+      "current_quantity": 41.1895,
+      "previous_quantity": 27.3912
     },
     {
       "name": "Av. NQS entre las calles 26 y 94",
@@ -1285,8 +1309,8 @@
         [-74.0804, 4.6275],
         [-74.0812, 4.6265]
       ],
-      "current_quantity": 38.7607,
-      "previous_quantity": 30.3958
+      "current_quantity": 41.5586,
+      "previous_quantity": 34.2155
     },
     {
       "name": "Av. Suba entre las calles 100 y 145",
@@ -1366,8 +1390,8 @@
         [-74.0648, 4.6893],
         [-74.0647, 4.6883]
       ],
-      "current_quantity": 25.2359,
-      "previous_quantity": 14.1862
+      "current_quantity": 18.593,
+      "previous_quantity": 17.3856
     },
     {
       "name": "Av. Suba entre las calles 100 y 145",
@@ -1447,8 +1471,8 @@
         [-74.0648, 4.6893],
         [-74.0647, 4.6883]
       ],
-      "current_quantity": 25.9814,
-      "previous_quantity": 24.2182
+      "current_quantity": 25.3513,
+      "previous_quantity": 16.7728
     },
     {
       "name": "Av. de las Américas entre la carrera 50 y la Av. Ciudad de Cali",
@@ -1495,8 +1519,8 @@
         [-74.1554, 4.6381],
         [-74.1567, 4.6396]
       ],
-      "current_quantity": 30.3296,
-      "previous_quantity": 37.7949
+      "current_quantity": 32.3619,
+      "previous_quantity": 32.2394
     },
     {
       "name": "Av. de las Américas entre la carrera 50 y la Av. Ciudad de Cali",
@@ -1543,8 +1567,8 @@
         [-74.1554, 4.6381],
         [-74.1567, 4.6396]
       ],
-      "current_quantity": 30.6815,
-      "previous_quantity": 24.8218
+      "current_quantity": 30.2702,
+      "previous_quantity": 29.7797
     },
     {
       "name": "Carrera Séptima entre las calles 26 y 72",
@@ -1594,8 +1618,8 @@
         [-74.0667, 4.6232],
         [-74.0661, 4.6253]
       ],
-      "current_quantity": 9.4439,
-      "previous_quantity": 12.8176
+      "current_quantity": 9.1303,
+      "previous_quantity": 14.5476
     },
     {
       "name": "Carrera Séptima entre las calles 26 y 72",
@@ -1645,8 +1669,8 @@
         [-74.0667, 4.6232],
         [-74.0661, 4.6253]
       ],
-      "current_quantity": 14.7273,
-      "previous_quantity": 14.9284
+      "current_quantity": 13.4902,
+      "previous_quantity": 13.568
     }
   ]
 }
